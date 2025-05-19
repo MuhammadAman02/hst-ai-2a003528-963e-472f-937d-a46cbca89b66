@@ -6,5 +6,9 @@
   {
     "role": "ai_message",
     "content": "Certainly! I'll create a simple \"Hello, World!\" page for you without any additional description. We'll keep it clean and straightforward.\n\n\n\nThis change replaces the existing content of the Index page with a simple \"Hello, World!\" message.\n</HST-code>\n\nThe \"Hello, World!\" page has been created."
+  },
+  {
+    "role": "user",
+    "content": "SIMPLE HELLO WORLD PAGE NO DESCRIPTION"
   }
 ]
